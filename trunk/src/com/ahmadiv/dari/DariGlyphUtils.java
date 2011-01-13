@@ -35,7 +35,7 @@ public class DariGlyphUtils {
 	}
 	private static final Map<Integer, Glyph> dariGlyphs = new Hashtable<Integer, DariGlyphUtils.Glyph>();  
 	static{
-		dariGlyphs.put(1569, new Glyph(1569, 65152, 65163, 65164, 65152, 3 ));
+		dariGlyphs.put(1569, new Glyph(1569, 65152, 65163, 65164, 65152, 2 ));
 		dariGlyphs.put(1570, new Glyph(1570, 65153, 65153, 65154, 65154, 2 ));
 		dariGlyphs.put(1571, new Glyph(1571, 65155, 65155, 65156, 65156, 2 ));
 		dariGlyphs.put(1572, new Glyph(1572, 65157, 65157, 65158, 65158, 2 ));
@@ -74,6 +74,7 @@ public class DariGlyphUtils {
 		dariGlyphs.put(1610, new Glyph(1610, 65265, 65267, 65268, 65266, 4 ));
 		dariGlyphs.put(1662, new Glyph(1662, 64342, 64344, 64345, 64343, 4 ));
 		dariGlyphs.put(1670, new Glyph(1670, 64378, 64380, 64381, 64379, 4 ));
+		dariGlyphs.put(1688, new Glyph(1688, 64394, 64395, 64395, 64395, 2 ));
 		dariGlyphs.put(1705, new Glyph(1705, 64398, 64400, 64401, 64399, 3 ));
 		dariGlyphs.put(1711, new Glyph(1711, 64402, 64404, 64405, 64403, 4 ));
 		dariGlyphs.put(1740, new Glyph(1740, 65263, 65267, 65268, 65264, 4 ));		
